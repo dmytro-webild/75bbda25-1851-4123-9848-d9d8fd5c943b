@@ -47,7 +47,7 @@ export default function LandingPage() {
             { text: "📍 Vezi locația", href: "#contact" }
           ]}
           buttonAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/modern-automobile-mechanic-composition_23-2147881860.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/modern-automobile-mechanic-composition_23-2147881860.jpg?_wi=1"
           imageAlt="Service auto profesionist cu mecanici calificati"
           showDimOverlay={false}
         />
@@ -215,7 +215,7 @@ export default function LandingPage() {
             name: "mesaj",            placeholder: "Detalii suplimentare sau întrebări...",            rows: 5
           }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/modern-automobile-mechanic-composition_23-2147881860.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/modern-automobile-mechanic-composition_23-2147881860.jpg?_wi=2"
           imageAlt="Service auto profesionist"
           mediaAnimation="slide-up"
           mediaPosition="left"
